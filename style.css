@@ -1,0 +1,20 @@
+
+
+.head {height: 15vh;}
+
+.bod {height: 67vh;}
+
+    .bod form {margin-top: 10vh;}
+
+.foot {height: 25vh;
+overflow: hidden;}
+
+    .foot img {
+        margin-top: -350px;
+        
+padding: 0;
+    }
+
+.navbar {height: 100% !important;}
+
+.carousel {overflow: hidden !important;}
